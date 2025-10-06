@@ -1,4 +1,5 @@
 # Dependencies
+# Enhanced gitignore configuration
 node_modules/
 */node_modules/
 
