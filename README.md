@@ -1,6 +1,7 @@
 # Money Momentum
 
 A full-stack web application for personal money momentum tracking built with React and Express.js.
+<!-- Enhanced project documentation -->
 
 ## Features
 
