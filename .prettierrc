@@ -1,4 +1,5 @@
 {
+  // Improved prettier configuration
   "semi": false,
   "trailingComma": "es5",
   "singleQuote": true,
