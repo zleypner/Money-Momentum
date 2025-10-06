@@ -1,4 +1,5 @@
 {
+  // Enhanced package configuration
   "name": "money-momentum",
   "version": "1.0.0",
   "description": "A full-stack money momentum tracking application",
